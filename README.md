@@ -77,12 +77,12 @@
 
 # Клонирование
 
-Вся практика находится в директориях `tasks. part 1` и `tasks. part 2`
+Вся практика находится в директориях `lesson ...`
 
 ### Склонируй себе весь репозиторий
 
 ```
-git clone https://github.com/Codynomicon/python-easy-m1-l1.git
+git clone https://github.com/Codynomicon/python-easy-course.git
 ```
 
 Теперь можешь решать задачи, практиковаться ;)
