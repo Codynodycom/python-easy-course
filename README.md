@@ -61,14 +61,16 @@
 <details>
 <summary>1 МОДУЛЬ</summary>
 
-  - 1 урок. [Функции и вывод данных](https://github.com/Codynomicon/python-easy-m1-l1)
-  - 2 урок. [Переменные и типы данных](https://github.com/Codynomicon/python-easy-m1-l2)
-  - 3 урок. [Строки](https://github.com/Codynomicon/python-easy-m1-l3)
-  - 4 урок. [Методы строк](https://github.com/Codynomicon/python-easy-m1-l4)
-  - 5 урок. [Логический тип. Логические выражения и операторы](https://github.com/Codynomicon/python-easy-m1-l5)
-  - 6 урок. [Условный оператор](https://github.com/Codynomicon/python-easy-m1-l6)
-  - 7 урок. [Каскадные условные конструкции](https://github.com/Codynomicon/python-easy-m1-l7)
-  - 8 урок. [🚀 **Проект Калькулятор**](https://github.com/Codynomicon/python-easy-m1-l8)
+  - 1 урок. [Функции и вывод данных](https://github.com/Codynodycom/python-easy-m1-l1)
+  - 2 урок. [Переменные и типы данных](https://github.com/Codynodycom/python-easy-m1-l2)
+  - 3 урок. [Строки](https://github.com/Codynodycom/python-easy-m1-l3)
+  - 4 урок. [Методы строк](https://github.com/Codynodycom/python-easy-m1-l4)
+  - 5 урок. [Логический тип. Логические выражения и операторы](https://github.com/Codynodycom/python-easy-m1-l5)
+  - 6 урок. [Условный оператор](https://github.com/Codynodycom/python-easy-m1-l6)
+  - 7 урок. [Каскадные условные конструкции](https://github.com/Codynodycom/python-easy-m1-l7)
+  - 8 урок. [🚀 **Проект Калькулятор**](https://github.com/Codynodycom/python-easy-m1-l8)
+  - 9 урок. [Продуктивность](https://github.com/Codynomicon/python-easy-m1-l9)
+  - 10 урок. [Челлендж](https://github.com/Codynomicon/python-easy-m1-l10)
 
 </details>
 
@@ -77,15 +79,14 @@
 <details>
 <summary>2 МОДУЛЬ</summary>
 
-  - 9 урок. [Продуктивность](https://github.com/Codynomicon/python-easy-m1-l9)
-  - 10 урок. [Челлендж](https://github.com/Codynomicon/python-easy-m1-l10)
-  - 11 урок. [Цикл while](https://github.com/Codynomicon/python-easy-m1-l11)
-  - 12 урок. [Цикл for со строками](https://github.com/Codynomicon/python-easy-m1-l12)
-  - 13 урок. [Цикл for с числами](https://github.com/Codynomicon/python-easy-m1-l13)
-  - 14 урок. [Функции](https://github.com/Codynomicon/python-easy-m1-l14)
-  - 15 урок. [Аргументы функций](https://github.com/Codynomicon/python-easy-m1-l15)
-  - 16 урок. [Возвращаемое значение функций](https://github.com/Codynomicon/python-easy-m1-l16)
-  - 17 урок. [🚀 **Проект Консольный бот**](https://github.com/Codynomicon/python-easy-m1-l17)
+  
+  - 11 урок. [Цикл while](https://github.com/Codynodycom/python-easy-m2-l11)
+  - 12 урок. [Цикл for со строками](https://github.com/Codynodycom/python-easy-m2-l12)
+  - 13 урок. [Цикл for с числами](https://github.com/Codynodycom/python-easy-m2-l13)
+  - 14 урок. [Функции](https://github.com/Codynodycom/python-easy-m2-l14)
+  - 15 урок. [Аргументы функций](https://github.com/Codynodycom/python-easy-m2-l15)
+  - 16 урок. [Возвращаемое значение функций](https://github.com/Codynodycom/python-easy-m2-l16)
+  - 17 урок. [🚀 **Проект Консольный бот**](https://github.com/Codynodycom/python-easy-m2-l17)
 
 </details>
 
@@ -94,9 +95,9 @@
 <details>
 <summary>3 МОДУЛЬ</summary>
 
-  - 18 урок. [Алгоритмы шифрования](https://github.com/Codynomicon/python-easy-m1-l18)
-  - 19 урок. [Углубленная работа со строками](https://github.com/Codynomicon/python-easy-m1-l19)
-  - 20 урок. [🚀 **Проект Дешефратор**](https://github.com/Codynomicon/python-easy-m1-l20)
+  - 18 урок. [Алгоритмы шифрования](https://github.com/Codynodycom/python-easy-m3-l18)
+  - 19 урок. [Углубленная работа со строками](https://github.com/Codynodycom/python-easy-m3-l19)
+  - 20 урок. [🚀 **Проект Дешефратор**](https://github.com/Codynodycom/python-easy-m3-l20)
 
 </details>
 
@@ -105,13 +106,13 @@
 <details>
 <summary>4 МОДУЛЬ</summary>
 
-  - 21 урок. [Встроенные модули random, time, datetime](https://github.com/Codynomicon/python-easy-m1-l21)
-  - 22 урок. [PEP/ZEN. Оптимизация кода. Ревью (обзор проектов)](https://github.com/Codynomicon/python-easy-m1-l22)
-  - 23 урок. [Графика в python. модуль turtle](https://github.com/Codynomicon/python-easy-m1-l23)
-  - 24 урок. [Списки](https://github.com/Codynomicon/python-easy-m1-l24)
-  - 25 урок. [Списки: Продолжение](https://github.com/Codynomicon/python-easy-m1-l25)
-  - 26 урок. [🚀 **Игра Снеговик**. Часть 1](https://github.com/Codynomicon/python-easy-m1-l26)
-  - 27 урок. [🚀 **Игра Снеговик**. Часть 2](https://github.com/Codynomicon/python-easy-m1-l27)
+  - 21 урок. [Встроенные модули random, time, datetime](https://github.com/Codynodycom/python-easy-m3-l21)
+  - 22 урок. [PEP/ZEN. Оптимизация кода. Ревью (обзор проектов)](https://github.com/Codynodycom/python-easy-m3-l22)
+  - 23 урок. [Графика в python. модуль turtle](https://github.com/Codynodycom/python-easy-m3-l23)
+  - 24 урок. [Списки](https://github.com/Codynodycom/python-easy-m3-l24)
+  - 25 урок. [Списки: Продолжение](https://github.com/Codynodycom/python-easy-m3-l25)
+  - 26 урок. [🚀 **Игра Снеговик**. Часть 1](https://github.com/Codynodycom/python-easy-m3-l26)
+  - 27 урок. [🚀 **Игра Снеговик**. Часть 2](https://github.com/Codynodycom/python-easy-m3-l27)
 
 </details>
 
@@ -120,13 +121,13 @@
 <details>
 <summary>5 МОДУЛЬ</summary>
 
-  - 28 урок. [Знакомство с pygame](https://github.com/Codynomicon/python-easy-m1-l28)
-  - 29 урок. [🚀 **Игра Лабиринт**. Часть 1](https://github.com/Codynomicon/python-easy-m1-l29)
-  - 30 урок. [🚀 **Игра Лабиринт**. Часть 2](https://github.com/Codynomicon/python-easy-m1-l30)
-  - 31 урок. [🚀 **Игра Лабиринт**. Часть 3](https://github.com/Codynomicon/python-easy-m1-l31)
-  - 32 урок. [Презентация и защита проектов](https://github.com/Codynomicon/python-easy-m1-l32)
-  - 33 урок. [**Workshop**: голосовой помощник](https://github.com/Codynomicon/python-easy-m1-l33)
-  - 34 урок. [Итогу курса](https://github.com/Codynomicon/python-easy-m1-l34)
+  - 28 урок. [Знакомство с pygame](https://github.com/Codynodycom/python-easy-m4-l28)
+  - 29 урок. [🚀 **Игра Лабиринт**. Часть 1](https://github.com/Codynodycom/python-easy-m4-l29)
+  - 30 урок. [🚀 **Игра Лабиринт**. Часть 2](https://github.com/Codynodycom/python-easy-m4-l30)
+  - 31 урок. [🚀 **Игра Лабиринт**. Часть 3](https://github.com/Codynodycom/python-easy-m4-l31)
+  - 32 урок. [Презентация и защита проектов](https://github.com/Codynodycom/python-easy-m4-l32)
+  - 33 урок. [**Workshop**: голосовой помощник](https://github.com/Codynodycom/python-easy-m4-l33)
+  - 34 урок. [Итогу курса](https://github.com/Codynodycom/python-easy-m4-l34)
 
 </details>
 
