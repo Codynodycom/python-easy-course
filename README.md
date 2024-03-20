@@ -80,13 +80,13 @@
 <summary>2 МОДУЛЬ</summary>
 
 Добавить элемент
-  - 11 урок. (Цикл while](https://github.com/Codynodycom/python-easy-m2-l11)
-  - 12 урок. (Цикл for](https://github.com/Codynodycom/python-easy-m2-l12)
-  - 13 урок. (Практикум по решению задач с циклами](https://github.com/Codynodycom/python-easy-m2-l12)
-  - 14 урок. (Функции](https://github.com/Codynodycom/python-easy-m2-l13)
-  - 15 урок. (Практикум по решению задач с функциями](https://github.com/Codynodycom/python-easy-m2-l14)
-  - 16 урок. (🚀 Проект **Консольный бот**. Часть 1](https://github.com/Codynodycom/python-easy-m2-l16)
-  - 17 урок. (🚀 **Проект Консольный бот**. Часть 2](https://github.com/Codynodycom/python-easy-m2-l17)
+  - 11 урок. [Цикл while](https://github.com/Codynodycom/python-easy-m2-l11)
+  - 12 урок. [Цикл for](https://github.com/Codynodycom/python-easy-m2-l12)
+  - 13 урок. [Практикум по решению задач с циклами](https://github.com/Codynodycom/python-easy-m2-l13)
+  - 14 урок. [Функции](https://github.com/Codynodycom/python-easy-m2-l14)
+  - 15 урок. [Практикум по решению задач с функциями](https://github.com/Codynodycom/python-easy-m2-l15)
+  - 16 урок. [🚀 Проект **Консольный бот**. Часть 1](https://github.com/Codynodycom/python-easy-m2-l16)
+  - 17 урок. [🚀 Проект **Консольный бот**. Часть 2](https://github.com/Codynodycom/python-easy-m2-l17)
 
 </details>
 
