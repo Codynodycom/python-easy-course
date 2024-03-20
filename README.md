@@ -62,12 +62,12 @@
 <summary>1 МОДУЛЬ</summary>
 
   - 1 урок. [Функции и вывод данных](https://github.com/Codynodycom/python-easy-m1-l1)
-  - 2 урок. [Переменные и типы данных(https://github.com/Codynodycom/python-easy-m1-l2)
+  - 2 урок. [Переменные и типы данных](https://github.com/Codynodycom/python-easy-m1-l2)
   - 3 урок. [Строки](https://github.com/Codynodycom/python-easy-m1-l3)
   - 4 урок. [Методы строк](https://github.com/Codynodycom/python-easy-m1-l4)
   - 5 урок. [Логический тип. Логические выражения и операторы](https://github.com/Codynodycom/python-easy-m1-l5)
   - 6 урок. [Условный оператор](https://github.com/Codynodycom/python-easy-m1-l6)
-  - 7 урок. [Каскадные условные конструкции](https://github.com/Codynodycom/python-easy-m1-l7)
+  - 7 урок. [Практикум по решению задач](https://github.com/Codynodycom/python-easy-m1-l7)
   - 8 урок. [🚀 **Проект Калькулятор**](https://github.com/Codynodycom/python-easy-m1-l8)
   - 9 урок. [Github](https://github.com/Codynodycom/python-easy-m1-l9)
   - 10 урок. [Челлендж](https://github.com/Codynodycom/python-easy-m1-l10)
@@ -80,13 +80,13 @@
 <summary>2 МОДУЛЬ</summary>
 
 Добавить элемент
-  - 11 урок. Цикл while
-  - 12 урок. Цикл for
-  - 13 урок. Практикум по решению задач с циклами
-  - 14 урок. Функции
-  - 15 урок. Практикум по решению задач с функциями
-  - 16 урок. 🚀 Проект **Консольный бот**. Часть 1
-  - 17 урок. 🚀 **Проект Консольный бот**. Часть 2
+  - 11 урок. (Цикл while](https://github.com/Codynodycom/python-easy-m2-l11)
+  - 12 урок. (Цикл for](https://github.com/Codynodycom/python-easy-m2-l12)
+  - 13 урок. (Практикум по решению задач с циклами](https://github.com/Codynodycom/python-easy-m2-l12)
+  - 14 урок. (Функции](https://github.com/Codynodycom/python-easy-m2-l13)
+  - 15 урок. (Практикум по решению задач с функциями](https://github.com/Codynodycom/python-easy-m2-l14)
+  - 16 урок. (🚀 Проект **Консольный бот**. Часть 1](https://github.com/Codynodycom/python-easy-m2-l16)
+  - 17 урок. (🚀 **Проект Консольный бот**. Часть 2](https://github.com/Codynodycom/python-easy-m2-l17)
 
 </details>
 
